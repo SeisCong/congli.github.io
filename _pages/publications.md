@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+paperurl: 'https://conli87.github.io/congli.github.io/publications/files/Li&Yu2024.pdf'
 ---
 
 {% if author.googlescholar %}
@@ -18,7 +19,7 @@ author_profile: true
 Li, C., & Yu, C. (2024). Seismic evidence for crustal magmatic intrusion beneath the southern part of the eastern North American margin. Journal of Geophysical Research: Solid Earth, 129, e2023JB028143. https://doi.org/10.1029/ 2023JB028143.[Download paper here](https://conli87.github.io/congli.github.io/publications/files/Li&Yu2024.pdf)
 
 
-Li, C., & Gao H., (2023a). Seismic evidence for metamorphic densification of the lower continental crust in eastern North America. Journal of Geophysical Research: Solid Earth.128(6). doi:10.1029/2023JB02660212.[Download paper here](https://conli87.github.io/congli.github.io/files/Li_etal_2023_eNA.pdf)
+Li, C., & Gao H. (2023). Seismic evidence for metamorphic densification of the lower continental crust in eastern North America. Journal of Geophysical Research: Solid Earth.128(6). doi:10.1029/2023JB02660212.[Download paper here](https://conli87.github.io/congli.github.io/files/Li_etal_2023_eNA.pdf)
 
 
 Li, C., & Gao, H. (2021). Modification of crust and mantle lithosphere beneath the southern part of the eastern North American passive margin. Geophysical Research Letters, 48(16). doi:10.1029/2020GL090555.[Download paper here](https://conli87.github.io/files/Li&Gao2021.pdf)

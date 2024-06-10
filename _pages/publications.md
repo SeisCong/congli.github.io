@@ -15,7 +15,7 @@ paperurl: 'https://conli87.github.io/congli.github.io/publications/files/Li&Yu20
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
+## First and corrsponding authors
 Li, C., & Yu, C. (2024). Seismic evidence for crustal magmatic intrusion beneath the southern part of the eastern North American margin. Journal of Geophysical Research: Solid Earth, 129, e2023JB028143. https://doi.org/10.1029/ 2023JB028143.[Download paper here](https://conli87.github.io/congli.github.io/files/Li&Yu2024.pdf)
 
 

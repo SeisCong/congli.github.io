@@ -41,6 +41,6 @@ Service and Leadership
 
 * Co-convener of 2017 AGU Fall Meeting session “T14A. Eastern North American Margin: Multidisciplinary Studies”, 2017
 
-[Download cv here](https://conli87.github.io/congli.github.io/files/CV_CongLi.pdf)
+[Download my cv here](https://conli87.github.io/congli.github.io/files/CV_CongLi.pdf)
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Lithospheric velocity structures beneath the SENAM"
-excerpt: "Short description of portfolio item number <img src='https://conli87.github.io/congli.github.io/images/Fig1.png'>"
+excerpt: " a high-resolution 3-D lithospheric velocity model from the oceanic side to the continental interior of the SENAM, using a novel approach combining with multi-modal dispersion curve inversion and full-wave ambient noise tomography <img src='https://conli87.github.io/congli.github.io/images/Fig1.png'>"
 collection: portfolio
 ---
 

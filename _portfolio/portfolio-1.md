@@ -1,6 +1,6 @@
 ---
 title: "Lithospheric velocity structures beneath the SENAM"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number <img src='https://conli87.github.io/congli.github.io/images/Fig1.png'>"
 collection: portfolio
 ---
 

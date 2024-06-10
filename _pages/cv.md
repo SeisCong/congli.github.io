@@ -40,3 +40,5 @@ Service and Leadership
 * Primary convener and chair of 2019 AGU Fall Meeting session “T44B. A multidisciplinary understanding of the formation and evolution of the continental lithosphere in collisional orogens”, 2019
 
 * Co-convener of 2017 AGU Fall Meeting session “T14A. Eastern North American Margin: Multidisciplinary Studies”, 2017
+
+

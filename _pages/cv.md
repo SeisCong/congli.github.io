@@ -26,7 +26,7 @@ Work Experience
 * 2024-present: Postdoc
   * The University of Arizona
 
-Funded Grant
+Funded Grants
 ======
 * Li, C., National Natural Science Foundation of China (42104052), Youth Science Foundation Project, High-resolution crustal and upper mantle structures beneath the southeastern Tibet Plateau revealed by a combination of multimodal Rayleigh waves inversion and full-wave ambient noise tomography, 2022-2023, host.
 * Li, C., China Postdoctoral Science Foundation, 71th General Fund (2022M711473), Joint inversion of multimodal surface wave dispersion and waveform, 2022-2023, host.

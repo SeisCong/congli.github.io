@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Lithospheric structures beneath the southern portion of the eastern North America margin"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---

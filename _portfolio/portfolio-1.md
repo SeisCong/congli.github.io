@@ -1,5 +1,5 @@
 ---
-title: "Lithospheric structures beneath the southern portion of the eastern North America margin"
+title: "Lithospheric velocity structures beneath the SENAM"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---

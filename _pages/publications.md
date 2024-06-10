@@ -27,3 +27,4 @@ Li, C., & Gao, H. (2021). Modification of crust and mantle lithosphere beneath t
 Li, C., Gao H., Williams M. L. (2020). Seismic characteristics of the eastern North American crust with Ps converted waves: terrane accretion and modification of continental crust. Journal of Geophysical Research: Solid Earth. doi: 10.1029/2019JB018727. [Download paper here](https://conli87.github.io/congli.github.io/files/Li_et_al2020.pdf)
 
 Li, C., Gao H., Williams M. L., Levin V. (2018). Crustal thickness variation in the northern Appalachian Mountains: Implications for the geometry of 3D tectonic boundaries within the crust. Geophysical Research Letters,45. doi:10.1029/2018GL078777.[Download paper here](https://conli87.github.io/congli.github.io/files/Li_et_al-2018.pdf)
+

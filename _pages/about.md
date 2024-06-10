@@ -2,7 +2,7 @@
 permalink: /
 #title: "Homepage"
 excerpt: "Homepage"
-geometry: margin=50cm
+geometry: margin=10cm
 author_profile: true
 redirect_from: 
   - /about/

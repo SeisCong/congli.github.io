@@ -14,4 +14,4 @@ This paper is about the number 2. The number 3 is left for future work.
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
 --- -->
-Li, C., & Gao H., (2023a). Seismic evidence for metamorphic densification of the lower continental crust in eastern North America. Journal of Geophysical Research: Solid Earth.128(6). doi:10.1029/2023JB02660212.[Download paper here](http://academicpages.github.io/files/Li_etal_2023_eNA.pdf)
+Li, C., & Gao H., (2023). Seismic evidence for metamorphic densification of the lower continental crust in eastern North America. Journal of Geophysical Research: Solid Earth.128(6). doi:10.1029/2023JB02660212.[Download paper here](http://academicpages.github.io/files/Li_etal_2023_eNA.pdf)
